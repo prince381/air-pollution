@@ -1,6 +1,6 @@
 # Particulate Matter (PM) Pollution
 
-This repository contains the files and code of my data science project about Particulate Matter (PM) Pollution.In this project,I intend to analyze and train machine learning models (multiple regression models) that can predict the PM2.5 and PM10 content in the air given other features.Note that in this project,we are trying to predict PM2.5 and PM10 which are two types of Particulate Matter so we will have to train two different models.The models were trained in an ipython jupyter notebook which can be found in this repository with the '.ipynb' file extension and the final models can also be downloaded from this same repository which have '.pkl' file extension.
+This repository contains the files and code of my data science project about Particulate Matter (PM) Pollution.In this project,I intend to analyze and train machine learning models (multiple regression models) that can predict the PM2.5 and PM10 content in the air given other features.Note that in this project,we are trying to predict PM2.5 and PM10 which are two types of Particulate Matter so we will have to train two different models.The models were trained in an ipython jupyter notebook which can be found in the jupyter folder in this repository with the '.ipynb' file extension and the final models can also be downloaded from this same repository which have '.pkl' file extension in the models folder.
 
 # Particulate Matter (PM) Basics
 #### source of information : United States Environmental Protection Agency

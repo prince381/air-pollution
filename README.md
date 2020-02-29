@@ -67,5 +67,5 @@ Zhang, S., Guo, B., Dong, A., He, J., Xu, Z. and Chen, S.X. (2017) Cautionary Ta
 #### Project completed by : Prince owusu
 #### Date completed : Saturday,9th November 2019
 
-#### Twitter : ![@iam_kwekhu](https://twitter.com/iam_kwekhu)
-#### Email : ![powusu381@gmail.com](powusu381@gmail.com)
+#### Twitter : [@iam_kwekhu](https://twitter.com/iam_kwekhu)
+#### Email : [powusu381@gmail.com](powusu381@gmail.com)
